@@ -1,6 +1,7 @@
 # Smart Classroom Bell 🔔
 
 **Idea:** Vivek Vats | 
+
 **Created by:** Abhirup Rudra | https://github.com/AbhirupRudra
 
 ---
