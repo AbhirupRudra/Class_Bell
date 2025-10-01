@@ -1,7 +1,7 @@
 # Smart Classroom Bell 🔔
 
-**Idea:** Vivek (ECE 2504057)  
-**Created by:** Abhirup (ECE 2504084)  
+**Idea:** Vivek Vats | 
+**Created by:** Abhirup Rudra | https://github.com/AbhirupRudra
 
 ---
 
@@ -41,7 +41,7 @@ The **Smart Classroom Bell** is an ESP8266-based automated bell system designed 
 ---
 
 ## Usage
-1. Connect to the ESP8266 WiFi AP (`ClassBell`).  
+1. Connect to the ESP8266 WiFi AP (`ClassBell`) and password: `12345678`.  
 2. Open the dashboard via browser at `192.168.4.1`.  
 3. Login using the password: `bellpass`.  
 4. View and edit the weekly schedule in the table.  
@@ -63,4 +63,4 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-Made with ❤️ by **Abhirup (ECE 2504084)** | Idea by **Vivek (ECE 2504057)**
+Made with ❤️ by **Abhirup Rudra** | Idea by **Vivek Vats**
